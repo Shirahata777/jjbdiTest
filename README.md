@@ -1,1 +1,2 @@
-# jjbdiTest
+# jjbdiTest  
+### JBDIのテストコードです
