@@ -25,6 +25,10 @@ dependencies {
 	implementation group: 'org.jdbi', name: 'jdbi3-bom', version: '3.19.0', ext: 'pom'
 	// https://mvnrepository.com/artifact/org.jdbi/jdbi3-core
 	implementation group: 'org.jdbi', name: 'jdbi3-core', version: '3.19.0'
+	
+	// https://mvnrepository.com/artifact/org.assertj/assertj-core
+	testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.19.0'
+	
 }
 
 test {

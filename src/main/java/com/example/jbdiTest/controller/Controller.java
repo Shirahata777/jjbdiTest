@@ -30,6 +30,7 @@ public class Controller {
 		    handle.execute("insert into contacts (id, name) values (?, ?)", 1, "ペルソナ！");
 		    handle.execute("insert into contacts (id, name) values (?, ?)", 2, "雨宮蓮");
 		});
+		
 	}
 
 }
